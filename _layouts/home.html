@@ -1,0 +1,39 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+<!-- <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+<h3><a href="https://Vyshnavmt94.github.io/assets/cv.pdf" target="_blank">CV - click here to Download.</a></h3>
+
+<h3>Research Publications</h3>
+
+<ul>
+  <li>Submitted a paper titled ”Deep Learning Based Two-Level Framework for Domain Name Systems Data Analysis. IEEE Transactions on Information Forensics and Security.” (under-review). (IF:5.824).</li>
+  <li>Manuscript title ”A Survey of Applications of Deep Learning for Cyber Security” under-preparation for IEEE Communications Surveys Tutorials (IF: 20.23).</li>
+  <li>Published a IEEE conference paper titled ”A Deep Learning Framework for Domain Generation Algorithms Prediction Using Long Short-term Memory.” (In-Press)</li>
+  <li>Paper ready for submission titled ”Towards Evaluating Robustness of Classical machine learning classifiers for Network Intrusion Detection System (NIDS).”
+  </li>
+  <li>Paper ready for submission titled ”Towards Evaluating Robustness of Classical machine learning classifiers for Botnet detection in Internet of Things (IoT) systems.”
+  </li>
+</ul>
+
+<h3>Game projects (Click to play)</h3>
+<ul>
+  <li><a href="https://thecodinglama.github.io/assets/MazeRunner.html" target="_blank" style="color: white">Maze runner</a></li>
+</ul>
+
+<h3>Mini-Projects</h3>
+<ul>
+  <li>A CNN Imagenet based MURA - Biomedial Image classification.</li>
+  <li>Home automation system using Raspberry Pi via Bluetooth.</li>
+  <li>Ultrasonic Insect Robot using Arduino.</li>
+  <li>Voice controlled Robotic hand using Raspberry Pi.</li>
+</ul>
+ 
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
