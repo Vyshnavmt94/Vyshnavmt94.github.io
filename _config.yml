@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" #"default"  "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Vyshnav M T"
-  avatar           : "/assets/me.jpg"
-  bio              : "Machine learning, Deep learning, Bio-medical, NLP, IoT, ."
+  avatar           : "/assets/me.png"
+  bio              : "Machine learning, Deep learning, Bio-medical, image processing, NLP, IoT."
   location         : "Kerala, India"
   email            :
   links:
@@ -126,13 +126,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/TheCodingLama"
+      #url: "https://github.com/Vyshnavmt94"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
-      #url: "https://www.kaggle.com/codinglama"
+      url: "https://www.kaggle.com/vyshnavmt94"
       
 
 # Site Footer
