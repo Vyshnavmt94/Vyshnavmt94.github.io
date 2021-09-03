@@ -133,9 +133,6 @@ author:
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/vyshnavmt94"
-    - label: "Goggle Scholar"
-      icon: "fab fa-fw fa-googlescholar"
-      url: "https://scholar.google.com/citations?user=nyKuebUAAAAJ&hl=en"
 
 
 # Site Footer
