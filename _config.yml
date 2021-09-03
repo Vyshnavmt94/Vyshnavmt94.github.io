@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Vyshnav M T"
-  avatar           : "/assets/me.png"
+  avatar           : "/assets/me.JPG"
   bio              : "Machine learning, Deep learning, Bio-medical, image processing, NLP, IoT."
   location         : "Kerala, India"
   email            :
@@ -123,17 +123,20 @@ author:
       # url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      # url: "https://www.facebook.com/vyshnav.mt"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      #url: "https://github.com/Vyshnavmt94"
+      url: "https://github.com/Vyshnavmt94"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+       url: "https://www.instagram.com/vyshnav.mt/"
     - label: "Kaggle"
       icon: "fab fa-fw fa-kaggle"
       url: "https://www.kaggle.com/vyshnavmt94"
-      
+    - label: "Goggle Scholar"
+      icon: "fab fa-fw fa-googlescholar"
+      url: "https://scholar.google.com/citations?user=nyKuebUAAAAJ&hl=en"
+
 
 # Site Footer
 footer:
